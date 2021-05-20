@@ -1,0 +1,13 @@
+body{
+    background-image: linear-gradient( 181deg,  rgba(225,109,245,1) 6.9%, rgba(78,248,231,1) 112.8% );
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+/* Accordion Start */
+.accordion-item{
+    margin-bottom: 20px;
+}
+
+/* Accordion ENd */
